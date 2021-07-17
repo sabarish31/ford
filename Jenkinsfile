@@ -1,1 +1,1 @@
-echo "Aadadasdaasda"
+echo "adada"
